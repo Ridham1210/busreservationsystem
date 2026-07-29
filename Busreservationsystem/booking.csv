@@ -1,0 +1,19 @@
+Name,Age,Gender,Seat_Num,Phone_Number,Bus_Name,Bus_Num,Bus_Type,Arrival_Time,Destination,Booking_DateTime,paymentmode,password,price
+ridham,18,male,15,464,Volvo Express,101,seater,2:00PM,Jaipur,2025-11-08 19:37:48,Net Banking,B6DZUF,480.000000
+aarush,18,male,19,34534,Volvo Express,101,sleeper,2:00PM,Jaipur,2025-11-08 20:34:01,Net Banking,PK8OXN,550.000000
+aarush,18,male,20,1323432,Volvo Express,101,sleeper,2:00PM,Jaipur,2025-11-08 20:36:28,Net Banking,KDXLY5,550.000000
+krisha,18,female,23,1234567890,Volvo Express,101,sleeper,2:00PM,Jaipur,2025-11-08 21:24:14,Card,IBI9PK,550.000000
+dharmi,17,female,24,1234534540,Volvo Express,101,sleeper,2:00PM,Jaipur,2025-11-08 21:24:14,Card,U7ONRK,550.000000
+krisha,12,female,1,1234567823,Jaipur Line,130,sleeper,7:00PM,Jaipur,2025-11-08 21:34:19,Card,BQNZN6,550.000000
+krisha,18,female,21,1234562345,Volvo Express,101,Sleeper,2:00PM,Jaipur,2025-11-10 19:05:03,UPI,S8H1DC,550.000000
+krisha,18,female,1,1233455456,Jaipur Line,130,sleeper,7:00PM,Jaipur,2025-11-10 19:17:32,Card,WEJB8G,550.000000
+dharmi,18,female,11,1234567893,Jaipur Line,130,sleeper,7:00PM,Jaipur,2025-11-10 19:17:32,Card,QD7HLR,550.000000
+krisha,18,female,16,1234567893,Jaipur Line,130,sleeper,7:00PM,Jaipur,2025-11-10 19:20:52,Card,J72NUH,550.000000
+aarush,18,male,26,6+6+,Jaipur Line,130,seater,7:00PM,Jaipur,2025-11-11 22:34:19,Net Banking,ILJYDF,550.000000
+aum,18,male,36,646,Jaipur Line,130,seater,7:00PM,Jaipur,2025-11-11 22:36:57,Net Banking,11UJOH,550.000000
+krisha,18,female,56,1234567896,Jaipur Line,130,sleeper,7:00PM,Jaipur,2025-11-12 00:48:09,Card,RT7A5O,550.00
+dharmi,18,female,2,1234567890,Jaipur Line,130,sleeper,7:00PM,Jaipur,2025-11-12 00:48:09,Card,1EJE3M,550.00
+krisha,18,female,3,1234567890,Jaipur Line,130,sleeper,7:00PM,Jaipur,2025-11-16 22:45:01,Card,YIB7DI,550.00
+krisha,12,female,4,1234567890,Jaipur Line,130,sleeper,7:00PM,Jaipur,2025-11-16 23:00:49,Card,1BU0S4,550.00
+Om,12,Male,1,7418529635,Pune Travels,144,AC,7:00PM,Pune,27/11/2025,UPI,P1YTHU,480.00
+Om,41,Male,1,7418529635,Luxury Coach,102,AC,4:00PM,Pune,27/11/2025,UPI,U9XA5U,480.00
